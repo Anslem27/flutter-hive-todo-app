@@ -2,7 +2,7 @@
 
 Simple flutter todo app with [Hive](https://pub.dev/packages/hive)
 
-__[Download apk here]()__
+__[Download apk here](https://github.com/Anslem27/Hive-Todo-App/releases/tag/Apk_Release)__
 
 ## Key Concepts
 
@@ -25,4 +25,4 @@ __[Download apk here]()__
 
 ### ScreenShot
 
-<img src="screens/Screenshot_1661420769.png" width:350>
+<img src="screens/Screenshot_1661420769.png" width:300>
