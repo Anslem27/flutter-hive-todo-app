@@ -1,6 +1,8 @@
 # hive_todo_app
 
-Minimal flutter todo app with [Hive](https://pub.dev/packages/hive)
+Simple flutter todo app with [Hive](https://pub.dev/packages/hive)
+
+__[Download apk here]()__
 
 ## Key Concepts
 
@@ -11,7 +13,7 @@ Minimal flutter todo app with [Hive](https://pub.dev/packages/hive)
 
 ## Packages
 
-- UUID `creating ids for hive boxes`
+- UUID `creating unique ids for hive boxes`
 - HIVE `no sql dart database`
 
 ```
