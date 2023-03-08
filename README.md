@@ -1,4 +1,4 @@
-# hive_todo_app
+# flutter hive Todo app
 
 Simple flutter todo app with [Hive](https://pub.dev/packages/hive)
 
@@ -8,7 +8,6 @@ __[Download apk here](https://github.com/Anslem27/Hive-Todo-App/releases/tag/Apk
 
 - Understanding [Hive](https://pub.dev/packages/hive) Concepts
 - TypeAdaptors with hive
-- Inherited widgets
 - Create, Edit, Delete, Update hive object
 
 ## Packages
